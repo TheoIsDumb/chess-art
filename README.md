@@ -1,4 +1,4 @@
-# chess
+# chess-art
 
 ![logo](assets/logo.webp)
 
